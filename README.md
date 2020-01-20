@@ -1,2 +1,2 @@
 # JavaScript
-My first JS coding
+Shipping and Billing
